@@ -2,7 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'xunil.de'
 
-publishDir = '/docs'
+publishDir = 'docs'
 
 [module]
   [[module.imports]]
